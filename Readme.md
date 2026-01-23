@@ -22,12 +22,12 @@ The main goals were to:
 
 Unlike standard practice notebooks, this project:
 
-✅ **Focuses on "Why":** Analyzes why prices change, not just what the price is.
-✅ **Logical Missing Data Handling:** Treats missing data based on domain logic, not blind imputation.
-✅ **Domain-Driven Engineering:** Creates features that reflect real-world real estate concepts.
-✅ **Leakage Prevention:** Uses proper `Pipeline` and `ColumnTransformer` to avoid data leakage.
-✅ **Hybrid Modeling:** Combines explainable linear models with high-performance tree models.
-✅ **SHAP Integration:** Uses SHAP to explain predictions globally and per house.
+✅ **Focuses on "Why":** Analyzes why prices change, not just what the price is.  
+✅ **Logical Missing Data Handling:** Treats missing data based on domain logic, not blind imputation.  
+✅ **Domain-Driven Engineering:** Creates features that reflect real-world real estate concepts.   
+✅ **Leakage Prevention:** Uses proper `Pipeline` and `ColumnTransformer` to avoid data leakage.   
+✅ **Hybrid Modeling:** Combines explainable linear models with high-performance tree models.   
+✅ **SHAP Integration:** Uses SHAP to explain predictions globally and per house.   
 
 ---
 
